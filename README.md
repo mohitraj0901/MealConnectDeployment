@@ -2,6 +2,13 @@
 
 MealConnect is a platform that bridges the gap between restaurants with surplus food and local food banks/shelters, helping reduce food waste while addressing food insecurity in communities.
 
+## 🚀 Live Demo
+👉 https://mealconnectproject.vercel.app/
+
+> Note: This repository contains the frontend deployment of the MealConnect project.  
+> Backend integration is available in the main repository and runs locally.
+
+
 ## 🎯 Project Overview
 
 MealConnect facilitates the efficient distribution of surplus food from restaurants to food banks and shelters through a user-friendly platform that manages the entire donation process.
@@ -154,6 +161,7 @@ Figma File Link: https://www.figma.com/proto/wB0zwxBO5UgJGcJwopv7GQ/meal-connect
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
 
 
 
